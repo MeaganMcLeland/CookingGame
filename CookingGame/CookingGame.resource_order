@@ -16,5 +16,11 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"rm_levelSelection","order":2,"path":"rooms/rm_levelSelection/rm_levelSelection.yy",},
+    {"name":"spr_button","order":2,"path":"sprites/spr_button/spr_button.yy",},
+    {"name":"obj_button_quit","order":3,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
+    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
 }
