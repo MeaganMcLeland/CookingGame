@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -155,7 +155,7 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"spr_plant_02","order":10,"path":"sprites/spr_plant_02/spr_plant_02.yy",},
     {"name":"spr_electric_explosion_without_build_up_5","order":5,"path":"sprites/spr_electric_explosion_without_build_up_5/spr_electric_explosion_without_build_up_5.yy",},
     {"name":"spr_smoke_swoosh_23","order":15,"path":"sprites/spr_smoke_swoosh_23/spr_smoke_swoosh_23.yy",},
@@ -179,6 +179,7 @@
     {"name":"spr_stroked_cutlery_table_spoon","order":3,"path":"sprites/spr_stroked_cutlery_table_spoon/spr_stroked_cutlery_table_spoon.yy",},
     {"name":"spr_stroked_key_gold","order":1,"path":"sprites/spr_stroked_key_gold/spr_stroked_key_gold.yy",},
     {"name":"spr_flatblack_lock","order":1,"path":"sprites/spr_flatblack_lock/spr_flatblack_lock.yy",},
+    {"name":"obj_manager","order":8,"path":"objects/obj_manager/obj_manager.yy",},
     {"name":"spr_small_plumes_of_smoke_14","order":5,"path":"sprites/spr_small_plumes_of_smoke_14/spr_small_plumes_of_smoke_14.yy",},
     {"name":"spr_magic_sparkle_explosion_without_build_up_8","order":24,"path":"sprites/spr_magic_sparkle_explosion_without_build_up_8/spr_magic_sparkle_explosion_without_build_up_8.yy",},
     {"name":"spr_star_explosion_without_build_up_11","order":2,"path":"sprites/spr_star_explosion_without_build_up_11/spr_star_explosion_without_build_up_11.yy",},
@@ -269,6 +270,7 @@
     {"name":"spr_flame_swoosh_22","order":14,"path":"sprites/spr_flame_swoosh_22/spr_flame_swoosh_22.yy",},
     {"name":"spr_potion_yellow","order":15,"path":"sprites/spr_potion_yellow/spr_potion_yellow.yy",},
     {"name":"spr_flatwhite_plates_dinner","order":6,"path":"sprites/spr_flatwhite_plates_dinner/spr_flatwhite_plates_dinner.yy",},
+    {"name":"obj_PickupWindow","order":10,"path":"objects/obj_PickupWindow/obj_PickupWindow.yy",},
     {"name":"spr_explosion_without_bomb_16","order":7,"path":"sprites/spr_explosion_without_bomb_16/spr_explosion_without_bomb_16.yy",},
     {"name":"spr_explosion_with_bomb_14","order":5,"path":"sprites/spr_explosion_with_bomb_14/spr_explosion_with_bomb_14.yy",},
     {"name":"spr_small_plumes_of_smoke_13","order":4,"path":"sprites/spr_small_plumes_of_smoke_13/spr_small_plumes_of_smoke_13.yy",},
@@ -757,6 +759,7 @@
     {"name":"spr_water_swoosh_23","order":15,"path":"sprites/spr_water_swoosh_23/spr_water_swoosh_23.yy",},
     {"name":"spr_fire_test_camp_fire_3","order":4,"path":"sprites/spr_fire_test_camp_fire_3/spr_fire_test_camp_fire_3.yy",},
     {"name":"spr_smoke_swoosh_26","order":18,"path":"sprites/spr_smoke_swoosh_26/spr_smoke_swoosh_26.yy",},
+    {"name":"spr_tableClean","order":15,"path":"sprites/spr_tableClean/spr_tableClean.yy",},
     {"name":"spr_flatblack_heart","order":4,"path":"sprites/spr_flatblack_heart/spr_flatblack_heart.yy",},
     {"name":"spr_arc_swoosh_water_4","order":5,"path":"sprites/spr_arc_swoosh_water_4/spr_arc_swoosh_water_4.yy",},
     {"name":"spr_water_swoosh_3","order":22,"path":"sprites/spr_water_swoosh_3/spr_water_swoosh_3.yy",},
@@ -782,6 +785,7 @@
     {"name":"spr_chest_silver_open","order":4,"path":"sprites/spr_chest_silver_open/spr_chest_silver_open.yy",},
     {"name":"spr_croissant_with_stroke","order":2,"path":"sprites/spr_croissant_with_stroke/spr_croissant_with_stroke.yy",},
     {"name":"spr_smoke_swoosh_14","order":5,"path":"sprites/spr_smoke_swoosh_14/spr_smoke_swoosh_14.yy",},
+    {"name":"obj_table","order":9,"path":"objects/obj_table/obj_table.yy",},
     {"name":"spr_shooting_fireball_without_impact_5357","order":13,"path":"sprites/spr_shooting_fireball_without_impact_5357/spr_shooting_fireball_without_impact_5357.yy",},
     {"name":"spr_stroked_scroll_close_sealed_blue","order":18,"path":"sprites/spr_stroked_scroll_close_sealed_blue/spr_stroked_scroll_close_sealed_blue.yy",},
     {"name":"spr_stroked_gift_box","order":20,"path":"sprites/spr_stroked_gift_box/spr_stroked_gift_box.yy",},
@@ -1052,6 +1056,7 @@
     {"name":"spr_candle_still_2","order":1,"path":"sprites/spr_candle_still_2/spr_candle_still_2.yy",},
     {"name":"spr_strawberry_without_stroke","order":9,"path":"sprites/spr_strawberry_without_stroke/spr_strawberry_without_stroke.yy",},
     {"name":"spr_lightning_swoosh_11","order":2,"path":"sprites/spr_lightning_swoosh_11/spr_lightning_swoosh_11.yy",},
+    {"name":"spr_frontDoor","order":17,"path":"sprites/spr_frontDoor/spr_frontDoor.yy",},
     {"name":"spr_wine_bottle_without_stroke","order":4,"path":"sprites/spr_wine_bottle_without_stroke/spr_wine_bottle_without_stroke.yy",},
     {"name":"spr_crab_whole_without_stroke","order":5,"path":"sprites/spr_crab_whole_without_stroke/spr_crab_whole_without_stroke.yy",},
     {"name":"spr_small_puff_of_smoke_vertical","order":5,"path":"sprites/spr_small_puff_of_smoke_vertical/spr_small_puff_of_smoke_vertical.yy",},
@@ -1162,6 +1167,7 @@
     {"name":"spr_player","order":12,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_flame_swoosh_14","order":5,"path":"sprites/spr_flame_swoosh_14/spr_flame_swoosh_14.yy",},
     {"name":"spr_small_spark_6","order":7,"path":"sprites/spr_small_spark_6/spr_small_spark_6.yy",},
+    {"name":"obj_door","order":11,"path":"objects/obj_door/obj_door.yy",},
     {"name":"spr_stroked_crates_small","order":6,"path":"sprites/spr_stroked_crates_small/spr_stroked_crates_small.yy",},
     {"name":"spr_small_puff_of_smoke__vertical__23","order":15,"path":"sprites/spr_small_puff_of_smoke__vertical__23/spr_small_puff_of_smoke__vertical__23.yy",},
     {"name":"spr_choc_cake_slice_without_stroke","order":1,"path":"sprites/spr_choc_cake_slice_without_stroke/spr_choc_cake_slice_without_stroke.yy",},
@@ -1187,6 +1193,7 @@
     {"name":"spr_electric_explosion_with_build_up_7","order":15,"path":"sprites/spr_electric_explosion_with_build_up_7/spr_electric_explosion_with_build_up_7.yy",},
     {"name":"spr_jug_green_without_stroke_","order":3,"path":"sprites/spr_jug_green_without_stroke_/spr_jug_green_without_stroke_.yy",},
     {"name":"spr_potion_testtube_orange","order":10,"path":"sprites/spr_potion_testtube_orange/spr_potion_testtube_orange.yy",},
+    {"name":"spr_PickupWindow","order":16,"path":"sprites/spr_PickupWindow/spr_PickupWindow.yy",},
     {"name":"spr_spark_of_electricity_9","order":9,"path":"sprites/spr_spark_of_electricity_9/spr_spark_of_electricity_9.yy",},
     {"name":"spr_minerals_gold_bar","order":6,"path":"sprites/spr_minerals_gold_bar/spr_minerals_gold_bar.yy",},
     {"name":"spr_gadget_runic","order":2,"path":"sprites/spr_gadget_runic/spr_gadget_runic.yy",},
