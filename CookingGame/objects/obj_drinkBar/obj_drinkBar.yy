@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_table",
+  "%Name":"obj_drinkBar",
   "eventList":[],
   "managed":true,
-  "name":"obj_table",
+  "name":"obj_drinkBar",
   "overriddenProperties":[],
   "parent":{
     "name":"Scene Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tableClean",
-    "path":"sprites/spr_tableClean/spr_tableClean.yy",
+    "name":"spr_drinkBar",
+    "path":"sprites/spr_drinkBar/spr_drinkBar.yy",
   },
   "spriteMaskId":null,
   "visible":true,

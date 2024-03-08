@@ -7,13 +7,12 @@ image_speed = 0;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7AED9AEA
+/// @DnDInput : 3
 /// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr_2" "1"
 /// @DnDArgument : "var" "spd"
+/// @DnDArgument : "var_1" "totalCash"
+/// @DnDArgument : "var_2" "animationspd"
 spd = 4;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 0E35BE5A
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "animationspd"
+totalCash = 0;
 animationspd = 1;

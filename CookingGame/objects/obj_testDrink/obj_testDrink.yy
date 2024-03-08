@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_table",
-  "eventList":[],
+  "%Name":"obj_testDrink",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_table",
+  "name":"obj_testDrink",
   "overriddenProperties":[],
   "parent":{
-    "name":"Scene Objects",
-    "path":"folders/Objects/Scene Objects.yy",
+    "name":"Dishes",
+    "path":"folders/Objects/Dishes.yy",
   },
-  "parentObjectId":{
-    "name":"obj_collision_handler",
-    "path":"objects/obj_collision_handler/obj_collision_handler.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tableClean",
-    "path":"sprites/spr_tableClean/spr_tableClean.yy",
+    "name":"spr_wine_glass_with_stroke",
+    "path":"sprites/spr_wine_glass_with_stroke/spr_wine_glass_with_stroke.yy",
   },
   "spriteMaskId":null,
   "visible":true,

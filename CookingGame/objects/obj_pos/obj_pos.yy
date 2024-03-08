@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_table",
+  "%Name":"obj_pos",
   "eventList":[],
   "managed":true,
-  "name":"obj_table",
+  "name":"obj_pos",
   "overriddenProperties":[],
   "parent":{
     "name":"Scene Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tableClean",
-    "path":"sprites/spr_tableClean/spr_tableClean.yy",
+    "name":"spr_posSystem",
+    "path":"sprites/spr_posSystem/spr_posSystem.yy",
   },
   "spriteMaskId":null,
   "visible":true,

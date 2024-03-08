@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_table",
+  "%Name":"obj_wallRight",
   "eventList":[],
   "managed":true,
-  "name":"obj_table",
+  "name":"obj_wallRight",
   "overriddenProperties":[],
   "parent":{
     "name":"Scene Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tableClean",
-    "path":"sprites/spr_tableClean/spr_tableClean.yy",
+    "name":"spr_wallRight",
+    "path":"sprites/spr_wallRight/spr_wallRight.yy",
   },
   "spriteMaskId":null,
   "visible":true,
