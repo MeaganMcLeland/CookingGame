@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_init_game",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"scr_init_game",
+  "parent":{
+    "name":"CookingGame",
+    "path":"CookingGame.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
