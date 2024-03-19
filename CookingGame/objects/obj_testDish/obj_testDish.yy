@@ -6,12 +6,17 @@
   ],
   "managed":true,
   "name":"obj_testDish",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_FoodAndDrink","path":"objects/obj_FoodAndDrink/obj_FoodAndDrink.yy",},"propertyId":{"name":"itemName","path":"objects/obj_FoodAndDrink/obj_FoodAndDrink.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Cookie\"",},
+  ],
   "parent":{
     "name":"Dishes",
     "path":"folders/Objects/Dishes.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_FoodAndDrink",
+    "path":"objects/obj_FoodAndDrink/obj_FoodAndDrink.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -16,3 +16,43 @@ image_speed = 0;
 spd = 4;
 totalCash = 0;
 animationspd = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 16A32FDE
+/// @DnDInput : 5
+/// @DnDArgument : "expr" "noone"
+/// @DnDArgument : "expr_1" "x"
+/// @DnDArgument : "expr_2" "y"
+/// @DnDArgument : "expr_3" "noone"
+/// @DnDArgument : "var" "hasItem"
+/// @DnDArgument : "var_1" "hasItemX"
+/// @DnDArgument : "var_2" "hasItemy"
+/// @DnDArgument : "var_3" "nearbyItem"
+/// @DnDArgument : "var_4" "carryLimit"
+hasItem = noone;
+hasItemX = x;
+hasItemy = y;
+nearbyItem = noone;
+carryLimit = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 479962D7
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "powerUpActive"
+powerUpActive = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3A5F5102
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "weatherImpact"
+weatherImpact = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 72C9EF81
+/// @DnDArgument : "expr" "spd"
+/// @DnDArgument : "var" "defaultMoveSpeed"
+defaultMoveSpeed = spd;

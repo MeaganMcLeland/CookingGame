@@ -46,3 +46,9 @@ switch(l17B20A5E_0)
 		image_index = 0;
 		break;
 }
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 7BFE0452
+/// @DnDArgument : "steps" "60"
+alarm_set(0, 60);
