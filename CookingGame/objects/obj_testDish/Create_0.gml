@@ -1,12 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 371D7ED2
-/// @DnDArgument : "expr" "5"
-/// @DnDArgument : "var" "price"
-price = 5;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
 /// @DnDHash : 0CECAA66
 /// @DnDInput : 2
 /// @DnDArgument : "expr" "0.3"

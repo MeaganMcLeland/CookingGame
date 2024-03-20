@@ -5,8 +5,8 @@
   "isDnD":true,
   "name":"scr_init_game",
   "parent":{
-    "name":"CookingGame",
-    "path":"CookingGame.yyp",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

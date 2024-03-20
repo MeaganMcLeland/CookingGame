@@ -11,7 +11,10 @@
     "name":"Dishes",
     "path":"folders/Objects/Dishes.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_FoodAndDrink",
+    "path":"objects/obj_FoodAndDrink/obj_FoodAndDrink.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

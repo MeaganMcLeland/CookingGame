@@ -17,18 +17,23 @@ global.levelCash = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 3D082BBD
-/// @DnDDisabled : 1
-/// @DnDArgument : "expr" "10"
-/// @DnDArgument : "var" "countdown"
+/// @DnDHash : 60C96DB7
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "startTimer"
+startTimer = true;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2C839752
+/// @DnDArgument : "expr" "6000"
+/// @DnDArgument : "var" "levelOneTimer"
+levelOneTimer = 6000;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 446B1AE2
-/// @DnDDisabled : 1
-/// @DnDArgument : "steps" "10"
-
+/// @DnDHash : 65AE8E55
+/// @DnDArgument : "steps" "120"
+alarm_set(0, 120);
 
 /// @DnDAction : YoYo Games.Sequences.Sequence_Create
 /// @DnDVersion : 1
@@ -38,3 +43,11 @@ global.levelCash = 0;
 /// @DnDArgument : "sequenceid" "seq_hud"
 /// @DnDArgument : "layer" ""GUI""
 /// @DnDSaveInfo : "sequenceid" "seq_hud"
+
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 08D8FD2D
+/// @DnDArgument : "expr" "50"
+/// @DnDArgument : "var" "global.levelOneGoal"
+global.levelOneGoal = 50;

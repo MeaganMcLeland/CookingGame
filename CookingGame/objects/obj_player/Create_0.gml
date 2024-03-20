@@ -11,10 +11,10 @@ image_speed = 0;
 /// @DnDArgument : "expr" "4"
 /// @DnDArgument : "expr_2" "1"
 /// @DnDArgument : "var" "spd"
-/// @DnDArgument : "var_1" "totalCash"
+/// @DnDArgument : "var_1" "levelCash"
 /// @DnDArgument : "var_2" "animationspd"
 spd = 4;
-totalCash = 0;
+levelCash = 0;
 animationspd = 1;
 
 /// @DnDAction : YoYo Games.Common.Variable
@@ -56,3 +56,9 @@ weatherImpact = false;
 /// @DnDArgument : "expr" "spd"
 /// @DnDArgument : "var" "defaultMoveSpeed"
 defaultMoveSpeed = spd;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 31D9804C
+/// @DnDArgument : "var" "totalCash"
+global.totalCash = 0;
